@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "deploy": "./deploy.sh"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.0"
+  }
+}
