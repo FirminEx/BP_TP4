@@ -1,2 +1,4 @@
+Firmin Exertier & Nathanaël Vacher
+
 Contract: 0xacb2d3315d92fbee750078d51e155bcb8657416d
 Prof tx: 0x0f09d860977639997ce01046fb8ab6f87cc1c748e7adb9ffdf18482d6070deba
